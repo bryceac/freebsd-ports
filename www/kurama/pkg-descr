@@ -1,7 +1,0 @@
-kurama is a CLI based
-SSG (static site generator) with a focus on creating
-non-blog websites, but does have some basic features
-for that purpose if desired.
-
-It uses the Tera template engine
-and has builtin JSON feed support.
