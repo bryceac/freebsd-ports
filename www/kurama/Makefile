@@ -4,7 +4,7 @@ DISTVERSION=	0.4.0
 CATEGORIES=	www
 
 MAINTAINER=	tonyhawk2100@gmail.com
-COMMENT=	Static generator for regular websites.
+COMMENT=	Static generator for regular websites
 WWW=	https://github.com/bryceac/kurama
 
 LICENSE=	MIT
