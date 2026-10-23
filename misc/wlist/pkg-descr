@@ -1,0 +1,12 @@
+wlist is a CLI based wishlist registry that can 
+help you create a wishlist with notes attached to items
+and export it HTML.
+
+It can also import and export lists to the following:
+
+* JSON
+* Excel (xlsx)
+* ODS
+* TSV
+
+Notes are only supported in the first three formats.
