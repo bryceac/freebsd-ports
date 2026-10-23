@@ -1,7 +1,7 @@
 PORTNAME=	wlist
 DISTVERSIONPREFIX=	v
 DISTVERSION=	0.2.0
-CATEGORIES=	www
+CATEGORIES=	misc
 
 MAINTAINER=	tonyhawk2100@gmail.com
 COMMENT=	Tool to create a wishlist
