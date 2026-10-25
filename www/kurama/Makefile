@@ -3,9 +3,9 @@ DISTVERSIONPREFIX=	v
 DISTVERSION=	0.4.1
 CATEGORIES=	www
 
-MAINTAINER=	tonyhawk2100@gmail.com
+MAINTAINER=	dev@kurama.cc
 COMMENT=	Static generator for regular websites
-WWW=	https://github.com/bryceac/kurama
+WWW=	https://kurama.cc
 
 LICENSE=	MIT
 LICENSE_FILE=	${WRKSRC}/LICENSE
